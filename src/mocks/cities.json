@@ -1,0 +1,22 @@
+[
+  {"id": "1", "name": "New York", "state": "New York"},
+  {"id": "2", "name": "Los Angeles", "state": "California"},
+  {"id": "3", "name": "Chicago", "state": "Illinois"},
+  {"id": "4", "name": "Miami", "state": "Florida"},
+  {"id": "5", "name": "Dallas", "state": "Texas"},
+  {"id": "6", "name": "Seattle", "state": "Washington"},
+  {"id": "7", "name": "San Francisco", "state": "California"},
+  {"id": "8", "name": "Denver", "state": "Colorado"},
+  {"id": "9", "name": "Atlanta", "state": "Georgia"},
+  {"id": "10", "name": "Boston", "state": "Massachusetts"},
+  {"id": "11", "name": "Las Vegas", "state": "Nevada"},
+  {"id": "12", "name": "Washington", "state": "District of Columbia"},
+  {"id": "13", "name": "Philadelphia", "state": "Pennsylvania"},
+  {"id": "14", "name": "Orlando", "state": "Florida"},
+  {"id": "15", "name": "San Diego", "state": "California"},
+  {"id": "16", "name": "Portland", "state": "Oregon"},
+  {"id": "17", "name": "Phoenix", "state": "Arizona"},
+  {"id": "18", "name": "Houston", "state": "Texas"},
+  {"id": "19", "name": "San Antonio", "state": "Texas"},
+  {"id": "20", "name": "Austin", "state": "Texas"}
+]

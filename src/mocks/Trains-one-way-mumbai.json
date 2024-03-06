@@ -1,0 +1,112 @@
+[
+  {
+    "TrainNumber": "US101",
+    "airlineName": "Delta Air Lines",
+    "airlineLogo": "https://www.logosurfer.com/wp-content/uploads/2018/03/indigo-logo_0.png",
+    "departureTime": "07:00",
+    "departure": "New York",
+    "arrivalTime": "10:00",
+    "arrival": "Los Angeles",
+    "noOfStops": "0",
+    "price": "350"
+  },
+  {
+    "TrainNumber": "US102",
+    "airlineName": "United Airlines",
+    "airlineLogo": "https://www.logosurfer.com/wp-content/uploads/2018/03/indigo-logo_0.png",
+    "departureTime": "09:00",
+    "departure": "Los Angeles",
+    "arrivalTime": "15:00",
+    "arrival": "Chicago",
+    "noOfStops": "0",
+    "price": "280"
+  },
+  {
+    "TrainNumber": "US103",
+    "airlineName": "American Airlines",
+    "airlineLogo": "https://www.logosurfer.com/wp-content/uploads/2018/03/indigo-logo_0.png",
+    "departureTime": "16:00",
+    "departure": "Chicago",
+    "arrivalTime": "20:00",
+    "arrival": "Miami",
+    "noOfStops": "0",
+    "price": "230"
+  },
+  {
+    "TrainNumber": "US104",
+    "airlineName": "Southwest Airlines",
+    "airlineLogo": "https://www.logosurfer.com/wp-content/uploads/2018/03/indigo-logo_0.png",
+    "departureTime": "11:00",
+    "departure": "Miami",
+    "arrivalTime": "14:00",
+    "arrival": "New York",
+    "noOfStops": "0",
+    "price": "180"
+  },
+  {
+    "TrainNumber": "US105",
+    "airlineName": "Alaska Airlines",
+    "airlineLogo": "https://www.logosurfer.com/wp-content/uploads/2018/03/indigo-logo_0.png",
+    "departureTime": "18:00",
+    "departure": "Dallas",
+    "arrivalTime": "21:00",
+    "arrival": "Seattle",
+    "noOfStops": "0",
+    "price": "330"
+  },
+  {
+    "TrainNumber": "US106",
+    "airlineName": "JetBlue",
+    "airlineLogo": "https://www.logosurfer.com/wp-content/uploads/2018/03/indigo-logo_0.png",
+    "departureTime": "12:00",
+    "departure": "Seattle",
+    "arrivalTime": "14:30",
+    "arrival": "San Francisco",
+    "noOfStops": "0",
+    "price": "150"
+  },
+  {
+    "TrainNumber": "US107",
+    "airlineName": "Spirit Airlines",
+    "airlineLogo": "https://www.logosurfer.com/wp-content/uploads/2018/03/indigo-logo_0.png",
+    "departureTime": "08:30",
+    "departure": "San Francisco",
+    "arrivalTime": "11:45",
+    "arrival": "Denver",
+    "noOfStops": "0",
+    "price": "120"
+  },
+  {
+    "TrainNumber": "US108",
+    "airlineName": "Frontier Airlines",
+    "airlineLogo": "https://www.logosurfer.com/wp-content/uploads/2018/03/indigo-logo_0.png",
+    "departureTime": "17:00",
+    "departure": "Denver",
+    "arrivalTime": "22:00",
+    "arrival": "Atlanta",
+    "noOfStops": "0",
+    "price": "210"
+  },
+  {
+    "TrainNumber": "US109",
+    "airlineName": "Delta Air Lines",
+    "airlineLogo": "https://www.logosurfer.com/wp-content/uploads/2018/03/indigo-logo_0.png",
+    "departureTime": "13:00",
+    "departure": "Atlanta",
+    "arrivalTime": "16:00",
+    "arrival": "Boston",
+    "noOfStops": "0",
+    "price": "250"
+  },
+  {
+    "TrainNumber": "US110",
+    "airlineName": "United Airlines",
+    "airlineLogo": "https://example.com/united-logo.png",
+    "departureTime": "19:00",
+    "departure": "Boston",
+    "arrivalTime": "21:00",
+    "arrival": "Las Vegas",
+    "noOfStops": "1",
+    "price": "300"
+  }
+]
